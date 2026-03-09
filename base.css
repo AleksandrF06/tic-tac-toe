@@ -1,0 +1,31 @@
+:root {
+    --dark-blue: #31c3bd;
+    --light-blue: #65e9e4;
+    --gold: #f2b137;
+    --yellow: #ffc860;
+    --black: #1a2a33;
+    --dark: #1f3641;
+    --grey: #a8bfc9;
+    --white: #dbe8ed;
+    --Heading-L-fz: 40px;
+    --Heading-L-ls: 2.5px;
+    --Heading-M-fz: 24px;
+    --Heading-M-ls: 1.5px;
+    --Heading-S-fz: 20px;
+    --Heading-S-ls: 1.25px;
+    --Heading-XS-fz: 16px;
+    --Heading-XS-ls: 1px;
+    --BODY-fw: 500;
+    --BODY-fz: 14px;
+    --BODY-ls: 0.88px;
+    --button-1-width: 410px;
+    --button-1-height: 67px;
+    --button-2-width: 226px;
+    --button-2-height: 52px;
+    --small-button-WH: 52px;
+} 
+
+body {
+    font-weight: bold;
+    font-family: 'Outfit', sans-serif;
+}
